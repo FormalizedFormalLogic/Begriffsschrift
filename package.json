@@ -16,6 +16,7 @@
   "dependencies": {
     "@iarna/toml": "^2.2.5",
     "deep-equal": "^2.2.3",
+    "fontkit": "^2.0.4",
     "otb-ttc-bundle": "^1.8.0",
     "semver": "^7.7.4",
     "verda": "^1.14.0",
